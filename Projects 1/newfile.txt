@@ -1,0 +1,6 @@
+Git clone repo
+cd into new repo 
+touch newfile.txt and nano into it
+git add
+git commit -m with comment
+git push 
